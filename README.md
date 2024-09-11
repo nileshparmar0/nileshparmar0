@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/nileshparmar0/nileshparmar0/blob/fbf36424026f9071530489072e7bb466bffd0f59/Nilesh%20parmar.png)
 <h1 align="center">Hi 👋, I'm Nilesh Parmar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/2IudUHdI075HL02Pkk](https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif)">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshparmar0&label=Profile%20views&color=0e75b6&style=flat" alt="nileshparmar0" /> </p>
 
