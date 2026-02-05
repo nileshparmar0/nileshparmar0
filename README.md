@@ -58,10 +58,6 @@ Tools:            Git, Linux, Postman
 
 ## 🚀 Featured Projects
 
-### [Job Analytics Platform](https://github.com/nileshparmar0)
-Real-time job market insights with event-driven architecture  
-**Tech:** Kafka • PostgreSQL • React • Node.js • REST APIs
-
 ### Academic Research Assistant Chatbot
 AI-powered research tool with sub-2-second response times  
 **Tech:** Akka Actor Model • RAG Pipelines • Qdrant Vector DB • Ollama LLMs
@@ -78,7 +74,7 @@ I'm actively seeking **SDE-1 opportunities** and open to discussing:
 - Payment systems & fintech
 - Cloud infrastructure projects
 
-📧 **Email:** parmar.nil@northeastern.edu  
+📧 **Email:** nilesh097parmar@gmail.com  
 💼 **Status:** Open to opportunities • Visa sponsorship required (F-1 OPT → H-1B)
 
 ---
