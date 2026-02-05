@@ -40,7 +40,9 @@ Enhanced GPU driver validation frameworks
 - Optimized driver testing workflows for quality assurance
 
 **🔹 Nimbeshwar Technologies** — *Associate Software Engineer*  
-Delivered fintech solutions for enterprise payment systems
+- Delivered fintech consulting solutions for enterprise clients
+- Optimized payment processing workflows and system integrations
+- Collaborated on enterprise-grade financial technology implementations
 
 ## 🛠️ Technical Skills
 
