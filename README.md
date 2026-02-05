@@ -70,24 +70,6 @@ AI-powered research tool with sub-2-second response times
 Healthcare peer support platform for trauma survivors  
 **Tech:** React • Node.js • MongoDB • WebSockets
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nileshparmar0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshparmar0&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nileshparmar0&theme=github-dark-blue&hide_border=true&background=0D1117)
-
-</div>
-
-## 🎓 Certifications & Learning
-
-- AWS Cloud Practitioner (in progress)
-- LeetCode: Active problem solver focusing on algorithms & data structures
-- System Design fundamentals & distributed systems architecture
-
 ## 🤝 Let's Connect
 
 I'm actively seeking **SDE-1 opportunities** and open to discussing:
